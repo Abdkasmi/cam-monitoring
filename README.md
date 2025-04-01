@@ -5,47 +5,47 @@ This project uses YOLO to detect people in real-time via a webcam and trigger an
 
 🚀 Features
 
-Real-time detection 📡
+  - Real-time detection 📡
 
-Filters only people 👤
+  - Filters only people 👤
 
-On-screen visual alert 🚨
+  - On-screen visual alert 🚨
 
 📦 Quick Installation
 
-1️⃣ Prerequisites
+  1️⃣ Prerequisites
 
-Python 3 installed
+    Python 3 installed
 
-A working webcam
+    A working webcam
 
-Install required dependencies:
+    Install required dependencies:
 
-pip install ultralytics opencv-python numpy
+    pip install ultralytics opencv-python numpy
 
-2️⃣ Clone the Project
+  2️⃣ Clone the Project
 
-git clone https://github.com/Abdkasmi/cam-monitoring.git
-cd cam-monitoring
+    git clone https://github.com/Abdkasmi/cam-monitoring.git
+    cd cam-monitoring
 
-3️⃣ Run the Script
+  3️⃣ Run the Script
 
-python3 monitoring.py
+    python3 monitoring.py
 
 📷 Usage
 
-A video window opens with the camera feed.
-
-If a person is detected, an alert message appears on the screen
-
-Exit: Press q to close.
+  A video window opens with the camera feed.
+  
+  If a person is detected, an alert message appears on the screen
+  
+  Exit: Press q to close.
 
 🛠 Possible Improvements
 
-📢 Add a sound alert
+  - 📢 Add a sound alert
 
-📸 Capture an image upon detection
+  - 📸 Capture an image upon detection
 
-☁️ Send a notification via email or SMS
+  - ☁️ Send a notification via email or SMS
 
 🎯 Project developed to experiment with YOLO in image recognition!
